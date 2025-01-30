@@ -1,0 +1,865 @@
+Topic,Category,Term,Occurrences
+0,Generic policy,policy,216
+0,Generic policy,update,2
+0,Generic policy,send,9
+0,Generic policy,software,17
+0,Generic policy,help,6
+0,Generic policy,exploit,0
+0,Generic policy,discovered,0
+0,Generic policy,submit,8
+0,Generic policy,thanks,3
+0,Generic policy,youve,2
+0,Reporting mechanism,policy,46
+0,Reporting mechanism,update,13
+0,Reporting mechanism,send,52
+0,Reporting mechanism,software,13
+0,Reporting mechanism,help,35
+0,Reporting mechanism,exploit,36
+0,Reporting mechanism,discovered,26
+0,Reporting mechanism,submit,45
+0,Reporting mechanism,thanks,5
+0,Reporting mechanism,youve,20
+0,User guideline,policy,18
+0,User guideline,update,7
+0,User guideline,send,7
+0,User guideline,software,3
+0,User guideline,help,10
+0,User guideline,exploit,2
+0,User guideline,discovered,2
+0,User guideline,submit,16
+0,User guideline,thanks,1
+0,User guideline,youve,1
+0,Projects practise,policy,2
+0,Projects practise,update,9
+0,Projects practise,send,0
+0,Projects practise,software,1
+0,Projects practise,help,0
+0,Projects practise,exploit,0
+0,Projects practise,discovered,1
+0,Projects practise,submit,2
+0,Projects practise,thanks,0
+0,Projects practise,youve,0
+0,Scope of practise,policy,14
+0,Scope of practise,update,40
+0,Scope of practise,send,1
+0,Scope of practise,software,1
+0,Scope of practise,help,2
+0,Scope of practise,exploit,0
+0,Scope of practise,discovered,2
+0,Scope of practise,submit,0
+0,Scope of practise,thanks,0
+0,Scope of practise,youve,0
+0,Information on maintainer,policy,0
+0,Information on maintainer,update,0
+0,Information on maintainer,send,0
+0,Information on maintainer,software,0
+0,Information on maintainer,help,0
+0,Information on maintainer,exploit,0
+0,Information on maintainer,discovered,0
+0,Information on maintainer,submit,0
+0,Information on maintainer,thanks,0
+0,Information on maintainer,youve,0
+0,Additional information,policy,1
+0,Additional information,update,0
+0,Additional information,send,4
+0,Additional information,software,0
+0,Additional information,help,6
+0,Additional information,exploit,6
+0,Additional information,discovered,0
+0,Additional information,submit,3
+0,Additional information,thanks,0
+0,Additional information,youve,0
+0,History of vulnerability,policy,0
+0,History of vulnerability,update,0
+0,History of vulnerability,send,0
+0,History of vulnerability,software,0
+0,History of vulnerability,help,0
+0,History of vulnerability,exploit,0
+0,History of vulnerability,discovered,0
+0,History of vulnerability,submit,0
+0,History of vulnerability,thanks,18
+0,History of vulnerability,youve,0
+1,Generic policy,pywps,1
+1,Generic policy,owslib,1
+1,Generic policy,pycsw,1
+1,Generic policy,autogluon,0
+1,Generic policy,codechecker,0
+1,Generic policy,auvipygmailcom,0
+1,Generic policy,idpy,3
+1,Generic policy,securelyusingpytorchsecurely,1
+1,Generic policy,psirt,1
+1,Generic policy,codecovs,2
+1,Reporting mechanism,pywps,0
+1,Reporting mechanism,owslib,0
+1,Reporting mechanism,pycsw,1
+1,Reporting mechanism,autogluon,2
+1,Reporting mechanism,codechecker,2
+1,Reporting mechanism,auvipygmailcom,2
+1,Reporting mechanism,idpy,1
+1,Reporting mechanism,securelyusingpytorchsecurely,1
+1,Reporting mechanism,psirt,2
+1,Reporting mechanism,codecovs,0
+1,User guideline,pywps,0
+1,User guideline,owslib,0
+1,User guideline,pycsw,0
+1,User guideline,autogluon,1
+1,User guideline,codechecker,0
+1,User guideline,auvipygmailcom,0
+1,User guideline,idpy,0
+1,User guideline,securelyusingpytorchsecurely,0
+1,User guideline,psirt,0
+1,User guideline,codecovs,1
+1,Projects practise,pywps,0
+1,Projects practise,owslib,0
+1,Projects practise,pycsw,0
+1,Projects practise,autogluon,0
+1,Projects practise,codechecker,0
+1,Projects practise,auvipygmailcom,0
+1,Projects practise,idpy,1
+1,Projects practise,securelyusingpytorchsecurely,0
+1,Projects practise,psirt,0
+1,Projects practise,codecovs,0
+1,Scope of practise,pywps,1
+1,Scope of practise,owslib,1
+1,Scope of practise,pycsw,1
+1,Scope of practise,autogluon,0
+1,Scope of practise,codechecker,1
+1,Scope of practise,auvipygmailcom,0
+1,Scope of practise,idpy,0
+1,Scope of practise,securelyusingpytorchsecurely,0
+1,Scope of practise,psirt,0
+1,Scope of practise,codecovs,0
+1,Information on maintainer,pywps,0
+1,Information on maintainer,owslib,0
+1,Information on maintainer,pycsw,0
+1,Information on maintainer,autogluon,0
+1,Information on maintainer,codechecker,0
+1,Information on maintainer,auvipygmailcom,0
+1,Information on maintainer,idpy,0
+1,Information on maintainer,securelyusingpytorchsecurely,0
+1,Information on maintainer,psirt,0
+1,Information on maintainer,codecovs,0
+1,Additional information,pywps,0
+1,Additional information,owslib,0
+1,Additional information,pycsw,0
+1,Additional information,autogluon,0
+1,Additional information,codechecker,0
+1,Additional information,auvipygmailcom,0
+1,Additional information,idpy,0
+1,Additional information,securelyusingpytorchsecurely,0
+1,Additional information,psirt,0
+1,Additional information,codecovs,0
+1,History of vulnerability,pywps,0
+1,History of vulnerability,owslib,0
+1,History of vulnerability,pycsw,0
+1,History of vulnerability,autogluon,0
+1,History of vulnerability,codechecker,0
+1,History of vulnerability,auvipygmailcom,0
+1,History of vulnerability,idpy,0
+1,History of vulnerability,securelyusingpytorchsecurely,0
+1,History of vulnerability,psirt,0
+1,History of vulnerability,codecovs,0
+2,Generic policy,release,8
+2,Generic policy,fix,15
+2,Generic policy,may,17
+2,Generic policy,maintainer,9
+2,Generic policy,repository,14
+2,Generic policy,user,2
+2,Generic policy,patch,0
+2,Generic policy,time,7
+2,Generic policy,address,2
+2,Generic policy,within,2
+2,Reporting mechanism,release,58
+2,Reporting mechanism,fix,102
+2,Reporting mechanism,may,47
+2,Reporting mechanism,maintainer,57
+2,Reporting mechanism,repository,42
+2,Reporting mechanism,user,21
+2,Reporting mechanism,patch,26
+2,Reporting mechanism,time,49
+2,Reporting mechanism,address,31
+2,Reporting mechanism,within,31
+2,User guideline,release,20
+2,User guideline,fix,9
+2,User guideline,may,29
+2,User guideline,maintainer,1
+2,User guideline,repository,14
+2,User guideline,user,60
+2,User guideline,patch,3
+2,User guideline,time,21
+2,User guideline,address,10
+2,User guideline,within,4
+2,Projects practise,release,26
+2,Projects practise,fix,26
+2,Projects practise,may,4
+2,Projects practise,maintainer,11
+2,Projects practise,repository,2
+2,Projects practise,user,7
+2,Projects practise,patch,7
+2,Projects practise,time,9
+2,Projects practise,address,4
+2,Projects practise,within,11
+2,Scope of practise,release,121
+2,Scope of practise,fix,41
+2,Scope of practise,may,7
+2,Scope of practise,maintainer,2
+2,Scope of practise,repository,5
+2,Scope of practise,user,4
+2,Scope of practise,patch,29
+2,Scope of practise,time,6
+2,Scope of practise,address,0
+2,Scope of practise,within,0
+2,Information on maintainer,release,0
+2,Information on maintainer,fix,0
+2,Information on maintainer,may,0
+2,Information on maintainer,maintainer,0
+2,Information on maintainer,repository,0
+2,Information on maintainer,user,0
+2,Information on maintainer,patch,0
+2,Information on maintainer,time,0
+2,Information on maintainer,address,0
+2,Information on maintainer,within,0
+2,Additional information,release,1
+2,Additional information,fix,0
+2,Additional information,may,0
+2,Additional information,maintainer,0
+2,Additional information,repository,1
+2,Additional information,user,0
+2,Additional information,patch,1
+2,Additional information,time,1
+2,Additional information,address,0
+2,Additional information,within,3
+2,History of vulnerability,release,0
+2,History of vulnerability,fix,5
+2,History of vulnerability,may,0
+2,History of vulnerability,maintainer,0
+2,History of vulnerability,repository,1
+2,History of vulnerability,user,5
+2,History of vulnerability,patch,1
+2,History of vulnerability,time,0
+2,History of vulnerability,address,0
+2,History of vulnerability,within,0
+3,Generic policy,spark,2
+3,Generic policy,tdtd,0
+3,Generic policy,group,3
+3,Generic policy,authentication,0
+3,Generic policy,license,27
+3,Generic policy,effort,3
+3,Generic policy,however,0
+3,Generic policy,tdnonetd,0
+3,Generic policy,maintained,1
+3,Generic policy,basis,2
+3,Reporting mechanism,spark,0
+3,Reporting mechanism,tdtd,0
+3,Reporting mechanism,group,15
+3,Reporting mechanism,authentication,0
+3,Reporting mechanism,license,0
+3,Reporting mechanism,effort,20
+3,Reporting mechanism,however,6
+3,Reporting mechanism,tdnonetd,0
+3,Reporting mechanism,maintained,7
+3,Reporting mechanism,basis,10
+3,User guideline,spark,231
+3,User guideline,tdtd,43
+3,User guideline,group,24
+3,User guideline,authentication,31
+3,User guideline,license,0
+3,User guideline,effort,0
+3,User guideline,however,10
+3,User guideline,tdnonetd,26
+3,User guideline,maintained,0
+3,User guideline,basis,0
+3,Projects practise,spark,0
+3,Projects practise,tdtd,0
+3,Projects practise,group,1
+3,Projects practise,authentication,0
+3,Projects practise,license,0
+3,Projects practise,effort,0
+3,Projects practise,however,0
+3,Projects practise,tdnonetd,0
+3,Projects practise,maintained,0
+3,Projects practise,basis,0
+3,Scope of practise,spark,0
+3,Scope of practise,tdtd,0
+3,Scope of practise,group,0
+3,Scope of practise,authentication,0
+3,Scope of practise,license,0
+3,Scope of practise,effort,1
+3,Scope of practise,however,1
+3,Scope of practise,tdnonetd,0
+3,Scope of practise,maintained,6
+3,Scope of practise,basis,2
+3,Information on maintainer,spark,0
+3,Information on maintainer,tdtd,0
+3,Information on maintainer,group,0
+3,Information on maintainer,authentication,0
+3,Information on maintainer,license,0
+3,Information on maintainer,effort,0
+3,Information on maintainer,however,0
+3,Information on maintainer,tdnonetd,0
+3,Information on maintainer,maintained,0
+3,Information on maintainer,basis,0
+3,Additional information,spark,0
+3,Additional information,tdtd,0
+3,Additional information,group,0
+3,Additional information,authentication,0
+3,Additional information,license,0
+3,Additional information,effort,0
+3,Additional information,however,0
+3,Additional information,tdnonetd,0
+3,Additional information,maintained,0
+3,Additional information,basis,0
+3,History of vulnerability,spark,0
+3,History of vulnerability,tdtd,0
+3,History of vulnerability,group,0
+3,History of vulnerability,authentication,2
+3,History of vulnerability,license,0
+3,History of vulnerability,effort,0
+3,History of vulnerability,however,0
+3,History of vulnerability,tdnonetd,0
+3,History of vulnerability,maintained,0
+3,History of vulnerability,basis,0
+4,Generic policy,cluster,0
+4,Generic policy,standalone,0
+4,Generic policy,cloud,0
+4,Generic policy,job,0
+4,Generic policy,delegation,0
+4,Generic policy,kerberos,0
+4,Generic policy,visible,0
+4,Generic policy,tdstandalone,0
+4,Generic policy,uitd,0
+4,Generic policy,keytab,0
+4,Reporting mechanism,cluster,0
+4,Reporting mechanism,standalone,0
+4,Reporting mechanism,cloud,10
+4,Reporting mechanism,job,3
+4,Reporting mechanism,delegation,0
+4,Reporting mechanism,kerberos,0
+4,Reporting mechanism,visible,2
+4,Reporting mechanism,tdstandalone,0
+4,Reporting mechanism,uitd,0
+4,Reporting mechanism,keytab,0
+4,User guideline,cluster,19
+4,User guideline,standalone,32
+4,User guideline,cloud,6
+4,User guideline,job,6
+4,User guideline,delegation,10
+4,User guideline,kerberos,26
+4,User guideline,visible,1
+4,User guideline,tdstandalone,7
+4,User guideline,uitd,7
+4,User guideline,keytab,9
+4,Projects practise,cluster,0
+4,Projects practise,standalone,0
+4,Projects practise,cloud,0
+4,Projects practise,job,0
+4,Projects practise,delegation,0
+4,Projects practise,kerberos,0
+4,Projects practise,visible,0
+4,Projects practise,tdstandalone,0
+4,Projects practise,uitd,0
+4,Projects practise,keytab,0
+4,Scope of practise,cluster,0
+4,Scope of practise,standalone,0
+4,Scope of practise,cloud,1
+4,Scope of practise,job,0
+4,Scope of practise,delegation,0
+4,Scope of practise,kerberos,0
+4,Scope of practise,visible,0
+4,Scope of practise,tdstandalone,0
+4,Scope of practise,uitd,0
+4,Scope of practise,keytab,0
+4,Information on maintainer,cluster,0
+4,Information on maintainer,standalone,0
+4,Information on maintainer,cloud,0
+4,Information on maintainer,job,0
+4,Information on maintainer,delegation,0
+4,Information on maintainer,kerberos,0
+4,Information on maintainer,visible,0
+4,Information on maintainer,tdstandalone,0
+4,Information on maintainer,uitd,0
+4,Information on maintainer,keytab,0
+4,Additional information,cluster,0
+4,Additional information,standalone,0
+4,Additional information,cloud,0
+4,Additional information,job,0
+4,Additional information,delegation,0
+4,Additional information,kerberos,0
+4,Additional information,visible,0
+4,Additional information,tdstandalone,0
+4,Additional information,uitd,0
+4,Additional information,keytab,0
+4,History of vulnerability,cluster,0
+4,History of vulnerability,standalone,0
+4,History of vulnerability,cloud,0
+4,History of vulnerability,job,0
+4,History of vulnerability,delegation,0
+4,History of vulnerability,kerberos,0
+4,History of vulnerability,visible,1
+4,History of vulnerability,tdstandalone,0
+4,History of vulnerability,uitd,0
+4,History of vulnerability,keytab,0
+5,Generic policy,bug,6
+5,Generic policy,whitecheckmark,0
+5,Generic policy,bounty,1
+5,Generic policy,via,3
+5,Generic policy,new,4
+5,Generic policy,possible,0
+5,Generic policy,program,1
+5,Generic policy,private,1
+5,Generic policy,review,4
+5,Reporting mechanism,bug,113
+5,Reporting mechanism,whitecheckmark,0
+5,Reporting mechanism,bounty,38
+5,Reporting mechanism,via,67
+5,Reporting mechanism,new,60
+5,Reporting mechanism,possible,48
+5,Reporting mechanism,program,35
+5,Reporting mechanism,private,72
+5,Reporting mechanism,review,14
+5,User guideline,bug,17
+5,User guideline,whitecheckmark,0
+5,User guideline,bounty,15
+5,User guideline,via,12
+5,User guideline,new,15
+5,User guideline,possible,12
+5,User guideline,program,16
+5,User guideline,private,25
+5,User guideline,review,15
+5,Projects practise,bug,10
+5,Projects practise,whitecheckmark,0
+5,Projects practise,bounty,4
+5,Projects practise,via,4
+5,Projects practise,new,7
+5,Projects practise,possible,6
+5,Projects practise,program,4
+5,Projects practise,private,5
+5,Projects practise,review,2
+5,Scope of practise,bug,23
+5,Scope of practise,whitecheckmark,75
+5,Scope of practise,bounty,9
+5,Scope of practise,via,1
+5,Scope of practise,new,16
+5,Scope of practise,possible,2
+5,Scope of practise,program,1
+5,Scope of practise,private,0
+5,Scope of practise,review,3
+5,Information on maintainer,bug,0
+5,Information on maintainer,whitecheckmark,0
+5,Information on maintainer,bounty,0
+5,Information on maintainer,via,0
+5,Information on maintainer,new,0
+5,Information on maintainer,possible,0
+5,Information on maintainer,program,0
+5,Information on maintainer,private,0
+5,Information on maintainer,review,0
+5,Additional information,bug,4
+5,Additional information,whitecheckmark,0
+5,Additional information,bounty,8
+5,Additional information,via,4
+5,Additional information,new,0
+5,Additional information,possible,10
+5,Additional information,program,4
+5,Additional information,private,0
+5,Additional information,review,0
+5,History of vulnerability,bug,0
+5,History of vulnerability,whitecheckmark,0
+5,History of vulnerability,bounty,0
+5,History of vulnerability,via,6
+5,History of vulnerability,new,0
+5,History of vulnerability,possible,4
+5,History of vulnerability,program,0
+5,History of vulnerability,private,1
+5,History of vulnerability,review,0
+6,Generic policy,version,7
+6,Generic policy,supported,0
+6,Generic policy,support,0
+6,Generic policy,latest,2
+6,Generic policy,data,11
+6,Generic policy,configuration,0
+6,Generic policy,run,0
+6,Generic policy,tell,0
+6,Generic policy,table,1
+6,Generic policy,development,0
+6,Reporting mechanism,version,22
+6,Reporting mechanism,supported,7
+6,Reporting mechanism,support,18
+6,Reporting mechanism,latest,8
+6,Reporting mechanism,data,11
+6,Reporting mechanism,configuration,7
+6,Reporting mechanism,run,4
+6,Reporting mechanism,tell,4
+6,Reporting mechanism,table,6
+6,Reporting mechanism,development,3
+6,User guideline,version,35
+6,User guideline,supported,15
+6,User guideline,support,54
+6,User guideline,latest,11
+6,User guideline,data,50
+6,User guideline,configuration,42
+6,User guideline,run,69
+6,User guideline,tell,10
+6,User guideline,table,38
+6,User guideline,development,10
+6,Projects practise,version,4
+6,Projects practise,supported,0
+6,Projects practise,support,0
+6,Projects practise,latest,0
+6,Projects practise,data,0
+6,Projects practise,configuration,0
+6,Projects practise,run,1
+6,Projects practise,tell,0
+6,Projects practise,table,0
+6,Projects practise,development,0
+6,Scope of practise,version,324
+6,Scope of practise,supported,229
+6,Scope of practise,support,270
+6,Scope of practise,latest,66
+6,Scope of practise,data,1
+6,Scope of practise,configuration,0
+6,Scope of practise,run,5
+6,Scope of practise,tell,6
+6,Scope of practise,table,13
+6,Scope of practise,development,11
+6,Information on maintainer,version,0
+6,Information on maintainer,supported,0
+6,Information on maintainer,support,0
+6,Information on maintainer,latest,0
+6,Information on maintainer,data,0
+6,Information on maintainer,configuration,0
+6,Information on maintainer,run,0
+6,Information on maintainer,tell,0
+6,Information on maintainer,table,0
+6,Information on maintainer,development,0
+6,Additional information,version,0
+6,Additional information,supported,0
+6,Additional information,support,0
+6,Additional information,latest,0
+6,Additional information,data,0
+6,Additional information,configuration,3
+6,Additional information,run,0
+6,Additional information,tell,0
+6,Additional information,table,0
+6,Additional information,development,0
+6,History of vulnerability,version,1
+6,History of vulnerability,supported,0
+6,History of vulnerability,support,0
+6,History of vulnerability,latest,0
+6,History of vulnerability,data,6
+6,History of vulnerability,configuration,0
+6,History of vulnerability,run,0
+6,History of vulnerability,tell,0
+6,History of vulnerability,table,1
+6,History of vulnerability,development,0
+7,Generic policy,work,11
+7,Generic policy,pytorch,2
+7,Generic policy,instead,0
+7,Generic policy,untrusted,4
+7,Generic policy,application,0
+7,Generic policy,secret,0
+7,Generic policy,plone,23
+7,Generic policy,read,2
+7,Generic policy,secure,4
+7,Generic policy,could,0
+7,Reporting mechanism,work,57
+7,Reporting mechanism,pytorch,6
+7,Reporting mechanism,instead,28
+7,Reporting mechanism,untrusted,0
+7,Reporting mechanism,application,0
+7,Reporting mechanism,secret,0
+7,Reporting mechanism,plone,59
+7,Reporting mechanism,read,24
+7,Reporting mechanism,secure,13
+7,Reporting mechanism,could,6
+7,User guideline,work,47
+7,User guideline,pytorch,26
+7,User guideline,instead,7
+7,User guideline,untrusted,35
+7,User guideline,application,53
+7,User guideline,secret,52
+7,User guideline,plone,0
+7,User guideline,read,22
+7,User guideline,secure,27
+7,User guideline,could,13
+7,Projects practise,work,4
+7,Projects practise,pytorch,0
+7,Projects practise,instead,0
+7,Projects practise,untrusted,0
+7,Projects practise,application,0
+7,Projects practise,secret,0
+7,Projects practise,plone,0
+7,Projects practise,read,6
+7,Projects practise,secure,0
+7,Projects practise,could,0
+7,Scope of practise,work,2
+7,Scope of practise,pytorch,0
+7,Scope of practise,instead,1
+7,Scope of practise,untrusted,0
+7,Scope of practise,application,3
+7,Scope of practise,secret,0
+7,Scope of practise,plone,4
+7,Scope of practise,read,3
+7,Scope of practise,secure,2
+7,Scope of practise,could,0
+7,Information on maintainer,work,4
+7,Information on maintainer,pytorch,0
+7,Information on maintainer,instead,0
+7,Information on maintainer,untrusted,0
+7,Information on maintainer,application,0
+7,Information on maintainer,secret,0
+7,Information on maintainer,plone,0
+7,Information on maintainer,read,0
+7,Information on maintainer,secure,0
+7,Information on maintainer,could,0
+7,Additional information,work,0
+7,Additional information,pytorch,0
+7,Additional information,instead,3
+7,Additional information,untrusted,0
+7,Additional information,application,0
+7,Additional information,secret,0
+7,Additional information,plone,0
+7,Additional information,read,0
+7,Additional information,secure,6
+7,Additional information,could,0
+7,History of vulnerability,work,11
+7,History of vulnerability,pytorch,0
+7,History of vulnerability,instead,0
+7,History of vulnerability,untrusted,0
+7,History of vulnerability,application,0
+7,History of vulnerability,secret,1
+7,History of vulnerability,plone,0
+7,History of vulnerability,read,3
+7,History of vulnerability,secure,0
+7,History of vulnerability,could,9
+8,Generic policy,model,5
+8,Generic policy,use,12
+8,Generic policy,way,0
+8,Generic policy,tidelift,0
+8,Generic policy,build,0
+8,Generic policy,attack,0
+8,Generic policy,input,3
+8,Generic policy,deployment,0
+8,Generic policy,binary,0
+8,Generic policy,coordinate,5
+8,Reporting mechanism,model,3
+8,Reporting mechanism,use,100
+8,Reporting mechanism,way,25
+8,Reporting mechanism,tidelift,61
+8,Reporting mechanism,build,1
+8,Reporting mechanism,attack,17
+8,Reporting mechanism,input,1
+8,Reporting mechanism,deployment,0
+8,Reporting mechanism,binary,0
+8,Reporting mechanism,coordinate,25
+8,User guideline,model,90
+8,User guideline,use,157
+8,User guideline,way,24
+8,User guideline,tidelift,0
+8,User guideline,build,14
+8,User guideline,attack,29
+8,User guideline,input,17
+8,User guideline,deployment,21
+8,User guideline,binary,9
+8,User guideline,coordinate,3
+8,Projects practise,model,0
+8,Projects practise,use,11
+8,Projects practise,way,1
+8,Projects practise,tidelift,1
+8,Projects practise,build,0
+8,Projects practise,attack,0
+8,Projects practise,input,0
+8,Projects practise,deployment,0
+8,Projects practise,binary,0
+8,Projects practise,coordinate,3
+8,Scope of practise,model,0
+8,Scope of practise,use,19
+8,Scope of practise,way,8
+8,Scope of practise,tidelift,0
+8,Scope of practise,build,0
+8,Scope of practise,attack,0
+8,Scope of practise,input,0
+8,Scope of practise,deployment,1
+8,Scope of practise,binary,0
+8,Scope of practise,coordinate,0
+8,Information on maintainer,model,0
+8,Information on maintainer,use,0
+8,Information on maintainer,way,1
+8,Information on maintainer,tidelift,0
+8,Information on maintainer,build,0
+8,Information on maintainer,attack,0
+8,Information on maintainer,input,0
+8,Information on maintainer,deployment,0
+8,Information on maintainer,binary,0
+8,Information on maintainer,coordinate,0
+8,Additional information,model,0
+8,Additional information,use,0
+8,Additional information,way,0
+8,Additional information,tidelift,0
+8,Additional information,build,0
+8,Additional information,attack,3
+8,Additional information,input,0
+8,Additional information,deployment,0
+8,Additional information,binary,0
+8,Additional information,coordinate,0
+8,History of vulnerability,model,0
+8,History of vulnerability,use,7
+8,History of vulnerability,way,0
+8,History of vulnerability,tidelift,0
+8,History of vulnerability,build,0
+8,History of vulnerability,attack,1
+8,History of vulnerability,input,0
+8,History of vulnerability,deployment,0
+8,History of vulnerability,binary,0
+8,History of vulnerability,coordinate,0
+9,Generic policy,vulnerability,44
+9,Generic policy,report,47
+9,Generic policy,please,12
+9,Generic policy,reporting,7
+9,Generic policy,email,5
+9,Generic policy,information,20
+9,Generic policy,project,56
+9,Generic policy,public,6
+9,Generic policy,disclosure,12
+9,Reporting mechanism,vulnerability,615
+9,Reporting mechanism,report,774
+9,Reporting mechanism,please,307
+9,Reporting mechanism,reporting,312
+9,Reporting mechanism,email,162
+9,Reporting mechanism,information,79
+9,Reporting mechanism,project,120
+9,Reporting mechanism,public,136
+9,Reporting mechanism,disclosure,90
+9,User guideline,vulnerability,40
+9,User guideline,report,28
+9,User guideline,please,33
+9,User guideline,reporting,9
+9,User guideline,email,2
+9,User guideline,information,18
+9,User guideline,project,17
+9,User guideline,public,16
+9,User guideline,disclosure,10
+9,Projects practise,vulnerability,28
+9,Projects practise,report,44
+9,Projects practise,please,3
+9,Projects practise,reporting,2
+9,Projects practise,email,1
+9,Projects practise,information,5
+9,Projects practise,project,9
+9,Projects practise,public,20
+9,Projects practise,disclosure,19
+9,Scope of practise,vulnerability,16
+9,Scope of practise,report,10
+9,Scope of practise,please,13
+9,Scope of practise,reporting,1
+9,Scope of practise,email,2
+9,Scope of practise,information,4
+9,Scope of practise,project,19
+9,Scope of practise,public,1
+9,Scope of practise,disclosure,0
+9,Information on maintainer,vulnerability,0
+9,Information on maintainer,report,0
+9,Information on maintainer,please,3
+9,Information on maintainer,reporting,0
+9,Information on maintainer,email,1
+9,Information on maintainer,information,0
+9,Information on maintainer,project,0
+9,Information on maintainer,public,0
+9,Information on maintainer,disclosure,0
+9,Additional information,vulnerability,4
+9,Additional information,report,18
+9,Additional information,please,18
+9,Additional information,reporting,2
+9,Additional information,email,7
+9,Additional information,information,9
+9,Additional information,project,0
+9,Additional information,public,3
+9,Additional information,disclosure,1
+9,History of vulnerability,vulnerability,10
+9,History of vulnerability,report,2
+9,History of vulnerability,please,1
+9,History of vulnerability,reporting,1
+9,History of vulnerability,email,1
+9,History of vulnerability,information,0
+9,History of vulnerability,project,5
+9,History of vulnerability,public,6
+9,History of vulnerability,disclosure,1
+10,Generic policy,github,54
+10,Generic policy,code,13
+10,Generic policy,file,7
+10,Generic policy,source,5
+10,Generic policy,service,5
+10,Generic policy,find,4
+10,Generic policy,including,5
+10,Generic policy,message,1
+10,Generic policy,distributed,8
+10,Generic policy,reproduce,0
+10,Reporting mechanism,github,227
+10,Reporting mechanism,code,53
+10,Reporting mechanism,file,24
+10,Reporting mechanism,source,35
+10,Reporting mechanism,service,10
+10,Reporting mechanism,find,39
+10,Reporting mechanism,including,15
+10,Reporting mechanism,message,13
+10,Reporting mechanism,distributed,0
+10,Reporting mechanism,reproduce,36
+10,User guideline,github,41
+10,User guideline,code,264
+10,User guideline,file,98
+10,User guideline,source,21
+10,User guideline,service,35
+10,User guideline,find,10
+10,User guideline,including,6
+10,User guideline,message,8
+10,User guideline,distributed,14
+10,User guideline,reproduce,1
+10,Projects practise,github,15
+10,Projects practise,code,0
+10,Projects practise,file,1
+10,Projects practise,source,0
+10,Projects practise,service,0
+10,Projects practise,find,2
+10,Projects practise,including,1
+10,Projects practise,message,0
+10,Projects practise,distributed,0
+10,Projects practise,reproduce,1
+10,Scope of practise,github,11
+10,Scope of practise,code,9
+10,Scope of practise,file,0
+10,Scope of practise,source,2
+10,Scope of practise,service,0
+10,Scope of practise,find,3
+10,Scope of practise,including,2
+10,Scope of practise,message,0
+10,Scope of practise,distributed,0
+10,Scope of practise,reproduce,0
+10,Information on maintainer,github,4
+10,Information on maintainer,code,7
+10,Information on maintainer,file,0
+10,Information on maintainer,source,0
+10,Information on maintainer,service,0
+10,Information on maintainer,find,0
+10,Information on maintainer,including,0
+10,Information on maintainer,message,0
+10,Information on maintainer,distributed,0
+10,Information on maintainer,reproduce,0
+10,Additional information,github,4
+10,Additional information,code,6
+10,Additional information,file,3
+10,Additional information,source,13
+10,Additional information,service,0
+10,Additional information,find,0
+10,Additional information,including,3
+10,Additional information,message,5
+10,Additional information,distributed,0
+10,Additional information,reproduce,6
+10,History of vulnerability,github,19
+10,History of vulnerability,code,4
+10,History of vulnerability,file,8
+10,History of vulnerability,source,3
+10,History of vulnerability,service,0
+10,History of vulnerability,find,0
+10,History of vulnerability,including,0
+10,History of vulnerability,message,1
+10,History of vulnerability,distributed,0
+10,History of vulnerability,reproduce,0
