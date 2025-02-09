@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
-file_path = "/dataset/Dataset_normalized.csv"
+file_path = "/home/beebie/meow/Dataset_normalized.csv"
 df = pd.read_csv(file_path)
 
 df.head()
