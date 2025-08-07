@@ -1,0 +1,193 @@
+Topic,Category,Term,Occurrences
+0,Generic policy,advisory,15
+0,Generic policy,fix,10
+0,Generic policy,maintainer,7
+0,Generic policy,github,35
+0,Generic policy,cve,8
+0,Generic policy,may,12
+0,Generic policy,click,6
+0,Reporting mechanism,advisory,19
+0,Reporting mechanism,fix,33
+0,Reporting mechanism,maintainer,21
+0,Reporting mechanism,github,85
+0,Reporting mechanism,cve,2
+0,Reporting mechanism,may,11
+0,Reporting mechanism,click,6
+0,Scope of practise,advisory,0
+0,Scope of practise,fix,26
+0,Scope of practise,maintainer,0
+0,Scope of practise,github,5
+0,Scope of practise,cve,0
+0,Scope of practise,may,5
+0,Scope of practise,click,0
+0,User guideline,advisory,2
+0,User guideline,fix,5
+0,User guideline,maintainer,0
+0,User guideline,github,27
+0,User guideline,cve,3
+0,User guideline,may,29
+0,User guideline,click,0
+1,Generic policy,model,12
+1,Generic policy,data,14
+1,Generic policy,using,22
+1,Generic policy,pytorch,10
+1,Generic policy,untrusted,20
+1,Generic policy,run,0
+1,Generic policy,build,0
+1,Generic policy,developer,6
+1,Generic policy,secure,11
+1,Reporting mechanism,model,0
+1,Reporting mechanism,data,3
+1,Reporting mechanism,using,16
+1,Reporting mechanism,pytorch,6
+1,Reporting mechanism,untrusted,0
+1,Reporting mechanism,run,3
+1,Reporting mechanism,build,1
+1,Reporting mechanism,developer,1
+1,Reporting mechanism,secure,8
+1,Scope of practise,model,0
+1,Scope of practise,data,0
+1,Scope of practise,using,3
+1,Scope of practise,pytorch,0
+1,Scope of practise,untrusted,0
+1,Scope of practise,run,2
+1,Scope of practise,build,0
+1,Scope of practise,developer,8
+1,Scope of practise,secure,1
+1,User guideline,model,115
+1,User guideline,data,45
+1,User guideline,using,59
+1,User guideline,pytorch,24
+1,User guideline,untrusted,49
+1,User guideline,run,67
+1,User guideline,build,21
+1,User guideline,developer,21
+1,User guideline,secure,32
+2,Generic policy,key,1
+2,Generic policy,source,6
+2,Generic policy,bounty,1
+2,Generic policy,possible,0
+2,Generic policy,pgp,0
+2,Generic policy,program,1
+2,Reporting mechanism,key,26
+2,Reporting mechanism,source,25
+2,Reporting mechanism,bounty,18
+2,Reporting mechanism,possible,20
+2,Reporting mechanism,pgp,17
+2,Reporting mechanism,program,19
+2,Scope of practise,key,0
+2,Scope of practise,source,2
+2,Scope of practise,bounty,4
+2,Scope of practise,possible,0
+2,Scope of practise,pgp,0
+2,Scope of practise,program,0
+2,User guideline,key,68
+2,User guideline,source,30
+2,User guideline,bounty,10
+2,User guideline,possible,9
+2,User guideline,pgp,2
+2,User guideline,program,21
+3,Generic policy,version,6
+3,Generic policy,supported,0
+3,Generic policy,policy,111
+3,Generic policy,release,5
+3,Generic policy,whitecheckmark,0
+3,Generic policy,latest,0
+3,Generic policy,update,0
+3,Generic policy,support,0
+3,Generic policy,currently,0
+3,Reporting mechanism,version,13
+3,Reporting mechanism,supported,8
+3,Reporting mechanism,policy,17
+3,Reporting mechanism,release,18
+3,Reporting mechanism,whitecheckmark,0
+3,Reporting mechanism,latest,2
+3,Reporting mechanism,update,2
+3,Reporting mechanism,support,12
+3,Reporting mechanism,currently,0
+3,Scope of practise,version,256
+3,Scope of practise,supported,185
+3,Scope of practise,policy,13
+3,Scope of practise,release,66
+3,Scope of practise,whitecheckmark,63
+3,Scope of practise,latest,44
+3,Scope of practise,update,43
+3,Scope of practise,support,217
+3,Scope of practise,currently,26
+3,User guideline,version,35
+3,User guideline,supported,10
+3,User guideline,policy,14
+3,User guideline,release,20
+3,User guideline,whitecheckmark,0
+3,User guideline,latest,3
+3,User guideline,update,7
+3,User guideline,support,56
+3,User guideline,currently,2
+4,Generic policy,spark,2
+4,Generic policy,file,6
+4,Generic policy,access,1
+4,Generic policy,application,0
+4,Generic policy,user,0
+4,Generic policy,tdtd,0
+4,Generic policy,secret,0
+4,Generic policy,authentication,0
+4,Generic policy,table,1
+4,Generic policy,license,25
+4,Reporting mechanism,spark,0
+4,Reporting mechanism,file,12
+4,Reporting mechanism,access,1
+4,Reporting mechanism,application,0
+4,Reporting mechanism,user,4
+4,Reporting mechanism,tdtd,0
+4,Reporting mechanism,secret,0
+4,Reporting mechanism,authentication,0
+4,Reporting mechanism,table,4
+4,Reporting mechanism,license,0
+4,Scope of practise,spark,0
+4,Scope of practise,file,0
+4,Scope of practise,access,0
+4,Scope of practise,application,1
+4,Scope of practise,user,6
+4,Scope of practise,tdtd,0
+4,Scope of practise,secret,0
+4,Scope of practise,authentication,0
+4,Scope of practise,table,9
+4,Scope of practise,license,0
+4,User guideline,spark,163
+4,User guideline,file,72
+4,User guideline,access,47
+4,User guideline,application,40
+4,User guideline,user,54
+4,User guideline,tdtd,44
+4,User guideline,secret,29
+4,User guideline,authentication,38
+4,User guideline,table,34
+4,User guideline,license,0
+5,Generic policy,vulnerability,36
+5,Generic policy,reporting,15
+5,Generic policy,email,3
+5,Generic policy,bug,3
+5,Generic policy,public,3
+5,Generic policy,disclosure,7
+5,Generic policy,team,2
+5,Reporting mechanism,vulnerability,220
+5,Reporting mechanism,reporting,115
+5,Reporting mechanism,email,50
+5,Reporting mechanism,bug,34
+5,Reporting mechanism,public,42
+5,Reporting mechanism,disclosure,28
+5,Reporting mechanism,team,19
+5,Scope of practise,vulnerability,13
+5,Scope of practise,reporting,0
+5,Scope of practise,email,0
+5,Scope of practise,bug,12
+5,Scope of practise,public,0
+5,Scope of practise,disclosure,0
+5,Scope of practise,team,0
+5,User guideline,vulnerability,33
+5,User guideline,reporting,10
+5,User guideline,email,1
+5,User guideline,bug,14
+5,User guideline,public,18
+5,User guideline,disclosure,4
+5,User guideline,team,0
